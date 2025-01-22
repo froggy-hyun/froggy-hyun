@@ -8,8 +8,6 @@
   <a href="mailto:1233day@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>  
 </p>
 
-###### "We learn more wisdom from failure than from success. He who never makes mistakes is one who has never found one."
-
 ## 🗨️ About Me
 - > 새로운 도전에 나서는 것의 가치, 사회문제 해결과 지속가능성에 기여하며 함께 성장하는 것의 가치 <br> 두 가치를 중요시하는 BE developer 입니다👩‍💻
 - 컴퓨터공학부 소프트웨어학과
@@ -26,7 +24,7 @@
 - 2023년 국방분야 AISW 역량강화 교육 (스파르타코딩클럽) (2023.06 ~ 2023.08)
 - 2023년 국방 공공데이터 활용 경진대회 서비스 개발 부문 1인팀으로 최우수상 (차관급상 + 200만원)
 - LG Aimers 5기에서 69등/740팀 으로 수료 (2024.07.01 ~ 2024.08.30)
-- 2024 NH 투자증권 빅데이터 경진대회에 참가하여 실제 ETF 정보를 bagging을 활용하여 투자자별 성향에 맞는 ETF 추천을 구현한 프로젝트 팀장
+- 2024 NH 투자증권 빅데이터 경진대회에 참가 및 "실제 ETF 정보를 bagging을 활용하여 투자자별 성향에 맞는 ETF 추천을 구현한 프로젝트" 팀장
 - LG CNS AI Genius 12기 선발 및 활동 (2024.08.23 ~ 2024. 12.04)
 - 2024년 국민체육진흥공단 공공데이터 활용 경진대회 - 장려상(4위) 입상
 - [과학기술정보통신부] 2024 SW동행 스테이지 청년(대학생)멘토 및 평가위원 선정 및 활동
