@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://github.com/froggy-hyun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/1233day-FEEC44?style=flat-square&logo=kakaotalk&logoColor=black"/></a>
-  <a href="https://www.instagram.com/froggy-hyun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/froggy_hyun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:1233day@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>  
 </p>
 
