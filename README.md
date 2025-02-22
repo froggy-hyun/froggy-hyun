@@ -42,8 +42,10 @@
     - 한국데이터산업진흥원장
     - 자격번호 : SQLD-051016714
   
-## 🛠️ Once I've used 🛠️
-
+## 🛠️ Tech Stacks
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,java,spring,visualstudio,figma,github,discord,notion" /> 
+</a>
 <!-- 
 
 
