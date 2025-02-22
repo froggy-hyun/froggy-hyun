@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4e12eae2-732c-4ee8-9f58-8120c66a345c" align="center"/>
+  <br>
+  <br>
+  <strong>𐔌ᵔ꜆ ܸ•⩊•ᵔ 𐦯꜆ &nbsp HELLO<br>WELCOME TO MY GITHUB &nbsp 🗣️🔥</strong>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%Sunghyun&nbsp;Choi&animation=twinkling&fontSize=65&fadeIn&fontAlignY=38&fontColor=FFFFFF" />
 <!--FF8756-->
+
+
+
 
 <p align="left">
   <a href="https://github.com/froggy-hyun"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
