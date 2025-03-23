@@ -4,8 +4,8 @@
   <br>
   <strong>𐔌ᵔ꜆ ܸ•⩊•ᵔ 𐦯꜆ &nbsp HELLO~<br>WELCOME TO MY Github &nbsp </strong>
 </p>
-
-![image](https://github.com/user-attachments/assets/b20adfe9-2d3d-4111-b82e-9f0fa491ec10)
+<br>
+<br>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%Sunghyun&nbsp;Choi&animation=twinkling&fontSize=65&fadeIn&fontAlignY=38&fontColor=FFFFFF" />
