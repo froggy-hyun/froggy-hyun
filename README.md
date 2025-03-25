@@ -27,7 +27,7 @@
 - Interest: Programming, Cooking, Investing, Artist (beats, photos, videos, etc...)
 
 ## ✍️Studying recently
-- Java Spring (boot)
+- Java Spring (boot), MySQL
 - html/css/javascript
 - Python AI
 
