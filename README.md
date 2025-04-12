@@ -11,7 +11,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=%Sunghyun&nbsp;Choi&animation=twinkling&fontSize=65&fadeIn&fontAlignY=38&fontColor=FFFFFF" />
 <!--FF8756-->
 
-
+Take a look at my portfolio
+https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 
 
 <p align="left">
