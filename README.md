@@ -64,6 +64,14 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 - SQLD (2023.12.15)
     - 한국데이터산업진흥원장
     - 자격번호 : SQLD-051016714
+
+- TOPCIT 562 (2025.11.01)
+    - 정보통신기획평가원
+    - 등록번호 : TL250202408
+
+- NCA (NAVER Cloud Platform Certified Associate) (2025.12.11)
+    - 네이버클라우드
+    - 자격번호 : NCP_202510283
   
 ## 🛠️ Tech Stacks
 <a href="https://skillicons.dev">
