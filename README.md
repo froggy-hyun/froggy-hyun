@@ -24,6 +24,7 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 
 ## 🗨️ About Me
 - > 새로운 도전에 나서는 것의 가치, 사회문제 해결과 지속가능성에 기여하며 함께 성장하는 것의 가치 <br> 두 가치를 중요시하는 BE developer 입니다👩‍💻
+- 하마랩 인턴십
 - 컴퓨터공학부 소프트웨어학과
 - Interest: Programming, Cooking, Investing, Artist (beats, photos, videos, etc...)
 
