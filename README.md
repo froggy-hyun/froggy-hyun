@@ -29,9 +29,9 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 - Interest: Programming, Cooking, Investing, Artist (beats, photos, videos, etc...)
 
 ## ✍️Studying recently
-- Java Spring (boot), MySQL
-- html/css/javascript
-- Python AI
+- Java Spring boot, MySQL, Redis, RabbitMQ 
+- html/css/javascript, React
+- Python ML
 
 ## 🎨 Activity
 - 한국공학대 2025 지역사회참여교과(CE) 우수작 '거북섬커넥트' 팀장 (우수작 대학공유혁신원장상 입상, 에세이 대상 입상) 
@@ -76,85 +76,10 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
   
 ## 🛠️ Tech Stacks
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,py,django,java,spring,visualstudio,figma,github,discord,notion" /> 
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows,html,css,js,react,py,django,aws,nginx,git,githubactions,docker,java,spring,redis,rabbitmq,idea,visualstudio,postman,figma,github,gitlab,discord,notion" /> 
 </a>
-<!-- 
 
 
-<p align="center">
-<strong> Language <br></strong>
-<br>
-  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-</p>
-
-<p align="center">
-<strong> Frontend <br></strong>
-<br>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-  <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</p>
-
-<p align="center">
-<strong> Backend <br></strong>
-<br>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
-</p>
-
-<p align="center">
-<strong> Database <br></strong>
-<br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/oracle sql-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="icon" /> 
-</p>
-
-<p align="center">
-<strong> Tool <br></strong>
-<br>
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="icon" /> 
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">  
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> 
-  <img src="https://img.shields.io/badge/figma-5B0BB5?style=for-the-badge&logo=figma&logoColor=white" alt="icon" /> 
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="icon" /> 
-  <img src="https://img.shields.io/badge/google colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="icon" />
-  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="icon" /> 
-  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="icon" /> 
-  <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="icon" /> 
-  <img src="https://img.shields.io/badge/adobe dreamweaver-FF61F6?style=for-the-badge&logo=adobedreamweaver&logoColor=white" alt="icon" />   
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojinJeon)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seojinJeon&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojinJeon&show_icons=true&theme=ambient_gradient)
-
-</div>
-
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseojinJeon%2Fhit-counter&count_bg=%23FF752B&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/seojinJeon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seojinJeon&show_icons=true&theme=dracula" />
-  </a>
-</p>
-
--->
-
+## 🤝 Open Source Contribution
+- Spring boot
+  - Add fallback support for '/opt/homebrew/bin' on macOS #49721 https://github.com/spring-projects/spring-boot/pull/49721
