@@ -24,7 +24,6 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 
 ## 🗨️ About Me
 - > 새로운 도전에 나서는 것의 가치, 사회문제 해결과 지속가능성에 기여하며 함께 성장하는 것의 가치 <br> 두 가치를 중요시하는 BE developer 입니다👩‍💻
-- 하마랩 인턴십
 - 컴퓨터공학부 소프트웨어학과
 - Interest: Programming, Cooking, Investing, Artist (beats, photos, videos, etc...)
 
@@ -34,6 +33,10 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 - Python ML
 
 ## 🎨 Activity
+- 하나 청년금융인재 양성 프로젝트 최우수 입상
+- 제5회 고용노동 공공데이터·AI 활용 공모전 우수상 입상
+- SK텔레콤 하나금융그룹 2026 Tech4Good 해커톤 최우수상 입상
+- 하마랩 인턴
 - 한국공학대 2025 지역사회참여교과(CE) 우수작 '거북섬커넥트' 팀장 (우수작 대학공유혁신원장상 입상, 에세이 대상 입상) 
 - 앱 서비스 관련 풀스택 외주
 - 유튜버 컨텐츠용 웹사이트 백엔드 외주
