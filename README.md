@@ -88,3 +88,6 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 
 - Spring-data-jpa
   - test: Use ARM64-compatible MySQL image in stored procedure integration tests #4226 https://github.com/spring-projects/spring-data-jpa/pull/4226
+ 
+- Pytorch
+  - [MPS] Add native _int_mm support #193153 https://github.com/pytorch/pytorch/pull/193153
