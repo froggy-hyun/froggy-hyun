@@ -76,6 +76,14 @@ https://1233day.notion.site/fb8ae205dfd547e1842d275c9fe9729d?pvs=4
 - NCA (NAVER Cloud Platform Certified Associate) (2025.12.11)
     - 네이버클라우드
     - 자격번호 : NCP_202510283
+ 
+- 투자자산운용사 (2026.11.19)
+    - 한국금융투자협회
+    - 자격번호 : ‭26-024035‬
+ 
+- ADsP (2026.11.20)
+    - 한국데이터산업진흥원
+    - 자격번호 : ADsP-051023540
   
 ## 🛠️ Tech Stacks
 <a href="https://skillicons.dev">
